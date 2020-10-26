@@ -17,6 +17,6 @@ results/%.freq.txt: data/%.no_md.txt
 results/%.sent.txt: data/%.no_md.txt
 	src/sent_per_line.sh $< $@
 
-data/all.no_md.txt: $(addprefix data/,BOOKS:%=.no_md.txt)
-	cat $^ >> $@ 
+data/all.no_md.txt: $(BOOKS:%=data/%.no_md.txt)
+	cat $^ > $@
 
