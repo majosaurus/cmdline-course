@@ -1,25 +1,25 @@
-    170 the
-    139 of
-    115 and
+    166 the
+    130 of
+    110 and
     107 to
-     87 a
+     83 a
      70 in
-     55 i
+     55 I
      51 be
-     46 for
-     39 that
-     39 as
+     41 for
+     38 that
      37 their
      36 will
      36 by
+     35 as
      34 or
      29 have
-     28 they
      28 at
-     26 this
-     26 it
+     27 they
      24 who
      23 which
+     23 this
+     23 it
      22 our
      22 are
      21 my
@@ -31,44 +31,41 @@
      15 thousand
      15 them
      15 one
-     15 kingdom
      14 so
+     14 kingdom
      13 upon
      13 from
      13 country
      12 with
      12 no
-     12 an
      11 number
      11 may
+     11 an
      10 very
-     10 therefore
      10 own
      10 his
      10 great
       9 year
-      9 we
-      9 many
+      9 Of
       9 child
       9 can
-      9 but
       9 all
       8 years
       8 well
+      8 we
       8 two
-      8 there
-      8 some
+      8 therefore
       8 parents
       8 other
       8 old
       8 most
+      8 many
       8 make
       8 hundred
       8 good
       7 when
       7 was
-      7 those
-      7 these
+      7 some
       7 shillings
       7 shall
       7 publick
@@ -76,19 +73,19 @@
       7 nor
       7 little
       7 least
+      7 But
       7 been
       7 any
       6 work
+      6 those
       6 think
+      6 these
       6 than
-      6 proposal
       6 pounds
       6 poor
       6 only
       6 now
       6 more
-      6 infants
-      6 he
       6 food
       6 cannot
       6 among
@@ -98,18 +95,22 @@
       5 twenty
       5 too
       5 time
-      5 neither
+      5 there
       5 much
       5 me
+      5 infants
       5 if
+      5 he
       5 having
       5 four
+      5 For
       5 flesh
       5 ever
       5 could
       5 charge
       5 breeders
       5 beggars
+      5 And
       5 although
       5 about
       4 women
@@ -123,38 +124,42 @@
       4 three
       4 thoughts
       4 themselves
+      4 The
       4 sold
       4 put
+      4 proposal
       4 practice
       4 per
       4 people
       4 offer
+      4 neither
       4 nation
       4 might
       4 like
       4 landlords
       4 into
-      4 how
       4 hath
       4 gentlemen
       4 friend
       4 frequent
-      4 first
       4 born
       4 besides
       4 assured
+      4 As
       4 annum
       4 age
-      4 after
       4 above
       4 able
+      4 A
       3 wives
       3 where
       3 were
       3 utterly
       3 till
       3 through
+      3 This
       3 thereby
+      3 There
       3 tenants
       3 taste
       3 taken
@@ -186,9 +191,12 @@
       3 leave
       3 labourers
       3 just
+      3 It
       3 instead
       3 indeed
+      3 how
       3 get
+      3 first
       3 fat
       3 expence
       3 every
@@ -200,7 +208,6 @@
       3 confess
       3 computed
       3 common
-      3 city
       3 carcass
       3 before
       3 because
@@ -209,6 +216,7 @@
       3 am
       3 always
       3 against
+      3 after
       3 advantage
       2 yearly
       2 wise
@@ -223,12 +231,12 @@
       2 towards
       2 told
       2 times
-      2 thus
       2 throughout
+      2 Therefore
       2 ten
       2 talk
       2 tables
-      2 swift
+      2 Swift
       2 sustenance
       2 subtract
       2 subject
@@ -248,7 +256,6 @@
       2 sell
       2 seldom
       2 see
-      2 secondly
       2 salt
       2 sale
       2 roasted
@@ -267,15 +274,14 @@
       2 provide
       2 proposed
       2 promote
-      2 project
       2 prime
-      2 pretender
+      2 Pretender
       2 pleased
       2 pigs
       2 person
       2 perhaps
       2 parts
-      2 papists
+      2 Papists
       2 out
       2 others
       2 nursed
@@ -285,8 +291,6 @@
       2 never
       2 nations
       2 murdering
-      2 modest
-      2 men
       2 maturely
       2 matter
       2 marriage
@@ -295,14 +299,14 @@
       2 man
       2 males
       2 long
-      2 london
+      2 London
       2 livelihood
       2 likewise
       2 liable
       2 learn
       2 kind
-      2 jonathan
-      2 ireland
+      2 Jonathan
+      2 Ireland
       2 innocent
       2 humbly
       2 houses
@@ -339,7 +343,7 @@
       2 effect
       2 easy
       2 during
-      2 dublin
+      2 Dublin
       2 dressing
       2 doubt
       2 do
@@ -355,11 +359,13 @@
       2 commodity
       2 come
       2 cloaths
+      2 city
       2 cheap
       2 certainly
       2 cattle
       2 carcasses
       2 calculate
+      2 but
       2 bring
       2 breed
       2 boiled
@@ -371,7 +377,7 @@
       2 art
       2 answer
       2 annually
-      2 american
+      2 American
       2 alive
       2 advantages
       2 acquaintance
@@ -391,16 +397,17 @@
       1 whereof
       1 wherein
       1 whereby
-      1 whereas
+      1 Whereas
       1 weighed
       1 weigh
       1 weddings
       1 weather
       1 wearied
+      1 We
       1 way
       1 wanted
       1 walk
-      1 volunteer
+      1 Volunteer
       1 voluntary
       1 visionary
       1 virtues
@@ -432,20 +439,26 @@
       1 travel
       1 towardly
       1 tough
-      1 topinamboo
+      1 Topinamboo
       1 tolerably
       1 title
       1 tithes
+      1 Thus
+      1 thus
       1 thrifty
       1 thousands
       1 though
+      1 Those
       1 thirty
-      1 thirdly
+      1 Thirdly
       1 things
       1 thing
       1 thieves
+      1 They
+      1 These
       1 thence
-      1 then
+      1 Then
+      1 That
       1 tenderness
       1 tender
       1 temperance
@@ -457,7 +470,7 @@
       1 swines
       1 swine
       1 sure
-      1 supposing
+      1 Supposing
       1 supported
       1 support
       1 supplyd
@@ -478,17 +491,18 @@
       1 starve
       1 stand
       1 squire
-      1 spain
+      1 Spain
       1 sow
       1 sound
       1 souls
       1 sort
+      1 Some
       1 solid
       1 soever
       1 skin
       1 skill
       1 skilful
-      1 sixthly
+      1 Sixthly
       1 situation
       1 sincerity
       1 sincere
@@ -509,6 +523,8 @@
       1 self
       1 seized
       1 seem
+      1 Secondly
+      1 secondly
       1 seasoned
       1 season
       1 scrupulous
@@ -519,13 +535,13 @@
       1 savages
       1 savage
       1 same
-      1 salmanaazor
+      1 Salmanaazor
       1 saleable
       1 sacrificing
       1 rudiments
       1 round
       1 rotting
-      1 roman
+      1 Roman
       1 roasting
       1 roads
       1 rid
@@ -565,19 +581,23 @@
       1 prudence
       1 providing
       1 protested
-      1 protestants
+      1 Protestants
       1 prospect
+      1 PROPOSAL
+      1 Proposal
       1 properly
       1 proper
       1 propagation
       1 prolifick
       1 projectors
+      1 Project
+      1 project
       1 proficiency
       1 profession
       1 professed
       1 profess
       1 produces
-      1 produced
+      1 Produced
       1 prodigious
       1 procure
       1 probationers
@@ -593,7 +613,7 @@
       1 pound
       1 possibly
       1 popular
-      1 popish
+      1 Popish
       1 poorer
       1 politicians
       1 poison
@@ -647,6 +667,7 @@
       1 nursing
       1 nourishing
       1 nothing
+      1 Neither
       1 necessary
       1 neat
       1 nearest
@@ -659,6 +680,8 @@
       1 months
       1 month
       1 moment
+      1 MODEST
+      1 Modest
       1 mistaken
       1 misfortunes
       1 miseries
@@ -671,6 +694,8 @@
       1 merry
       1 mercy
       1 merchants
+      1 Men
+      1 men
       1 members
       1 melancholy
       1 meetings
@@ -678,13 +703,14 @@
       1 meat
       1 measure
       1 mean
-      1 mayors
+      1 Mayors
       1 materials
       1 married
       1 markets
       1 market
       1 mares
-      1 march
+      1 March
+      1 Many
       1 mandarins
       1 male
       1 majestys
@@ -698,7 +724,7 @@
       1 lover
       1 love
       1 loss
-      1 lord
+      1 Lord
       1 looked
       1 longer
       1 lives
@@ -708,7 +734,7 @@
       1 lessened
       1 lessen
       1 less
-      1 lent
+      1 Lent
       1 length
       1 learning
       1 lean
@@ -717,9 +743,9 @@
       1 law
       1 lately
       1 late
-      1 lastly
+      1 Lastly
       1 last
-      1 laplanders
+      1 Laplanders
       1 landlord
       1 land
       1 lads
@@ -730,11 +756,12 @@
       1 knowing
       1 knife
       1 knew
+      1 Kingdom
       1 kick
       1 justly
       1 justify
       1 joints
-      1 jews
+      1 Jews
       1 its
       1 island
       1 invited
@@ -750,6 +777,7 @@
       1 inhuman
       1 inhabitants
       1 informed
+      1 Infants
       1 inevitable
       1 industry
       1 inducement
@@ -772,6 +800,7 @@
       1 humble
       1 humane
       1 however
+      1 How
       1 houshold
       1 house
       1 hot
@@ -792,11 +821,12 @@
       1 heart
       1 healthy
       1 head
+      1 He
       1 happiness
       1 happily
       1 happened
       1 handicraft
-      1 gutenberg
+      1 Gutenberg
       1 guests
       1 grown
       1 grossly
@@ -827,14 +857,14 @@
       1 fricasie
       1 frequently
       1 frequented
-      1 french
+      1 French
       1 freely
-      1 fourthly
+      1 Fourthly
       1 fourteen
       1 fourfifths
       1 fortunes
       1 fortunately
-      1 formosa
+      1 Formosa
       1 fore
       1 forced
       1 fond
@@ -844,10 +874,11 @@
       1 five
       1 fit
       1 fish
+      1 First
       1 fineries
       1 filth
       1 fight
-      1 fifthly
+      1 Fifthly
       1 fifteen
       1 female
       1 fell
@@ -882,25 +913,25 @@
       1 episcopal
       1 enumerated
       1 entirely
-      1 england
+      1 England
       1 enforced
       1 enemies
       1 endeavouring
-      1 end
+      1 End
       1 encreaseth
       1 encreased
       1 encrease
       1 encouraged
       1 emulation
-      1 emperor
+      1 Emperor
       1 eminent
       1 eighty
       1 effectual
-      1 ebook
+      1 EBook
       1 eating
       1 eat
       1 ease
-      1 earth
+      1 Earth
       1 earnestly
       1 earlier
       1 dying
@@ -908,7 +939,7 @@
       1 due
       1 dropt
       1 dressed
-      1 dr
+      1 Dr
       1 distresses
       1 distress
       1 disposed
@@ -991,6 +1022,7 @@
       1 collateral
       1 cold
       1 cloathing
+      1 City
       1 circumstance
       1 circulate
       1 christenings
@@ -1002,9 +1034,9 @@
       1 chair
       1 certain
       1 censure
-      1 cavan
+      1 Cavan
       1 cautious
-      1 catholick
+      1 Catholick
       1 care
       1 came
       1 calf
@@ -1037,7 +1069,7 @@
       1 bear
       1 bastard
       1 barreld
-      1 barbadoes
+      1 Barbadoes
       1 baked
       1 bacon
       1 away
@@ -1053,9 +1085,10 @@
       1 apprehend
       1 appointed
       1 appear
-      1 anonymous
+      1 Anonymous
       1 annual
       1 animosities
+      1 An
       1 altogether
       1 alone
       1 alms
@@ -1067,6 +1100,7 @@
       1 ago
       1 aged
       1 again
+      1 After
       1 affairs
       1 advising
       1 advancing
